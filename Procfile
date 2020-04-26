@@ -1,1 +1,1 @@
-discordbot: java music.jar.py
+discordbot: java music.py
